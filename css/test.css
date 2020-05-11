@@ -49,7 +49,7 @@ header h1{
 }
 section ul li{
     display: inline-flex;
-    max-width: 25rem;
+    max-width: 27.5rem;
 }
 
 ul li figure figcaption h2 {

@@ -48,7 +48,7 @@ header h1{
     padding-top: 1.5rem;
 }
 section ul li{
-    display: inline-flex;
+    display: inline-block;
     max-width: 27.5rem;
 }
 

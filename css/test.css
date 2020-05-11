@@ -1,0 +1,76 @@
+
+/*reset*/
+html{
+    font-size: 62.5%;
+}
+body{
+    font: 1.6rem 'Open sans', sans-serif;
+    margin: 0;
+}
+
+h1, h2, h3, h4, p, figure, ul,th,td,caption{
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    list-style: none;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    outline: none;
+}
+
+input{
+    border: solid 1px #ccc;
+    outline: none;
+}
+/*style*/
+main{
+    max-width: 80rem;
+    margin: 0 auto;
+}
+main section ul{
+    box-shadow: 0px 0px 3px 1px rgba(0,0,0,1);
+    padding : 0.3rem
+}
+main section{
+    background:#fafafa;
+    margin: 0 auto;
+}
+header h1{
+    text-align: center;
+    color: #222;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+}
+section ul li{
+    display: inline-flex;
+    max-width: 25rem;
+}
+
+ul li figure figcaption h2 {
+    font-size: 1.5rem;
+   text-align: center;
+    background-color: rgba(12, 35, 97,0.9);
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+    
+}
+figcaption h2{
+    color: #fff;
+    
+    
+}
+figure img{
+    width: 100%;
+    display: block;
+
+}
+p{
+   background-color:#99e6ff;
+   text-align: auto;
+}

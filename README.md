@@ -17,14 +17,21 @@ moteurs de recherche à l’indexation de l’information.
 
 ## Phases de réalisation
 
-• Créer un répertoire de travail
-• Commencer le travail par une maquette statique (sans css)
-• Valider la maquette dans le validateur W3C
-• Respecter les emplacements des éléments vus dans les wireframes
-• Commencer à réfléchir pour le fonctionnement du formulaire
-• Penser au développement de la page à partir de 0 : sans Framework
-• Après l’intégration de la charte graphique, revenir sur les 
+* Créer un répertoire de travail
+
+* Commencer le travail par une maquette statique (sans css)
+
+* Valider la maquette dans le validateur W3C
+
+* Respecter les emplacements des éléments vus dans les wireframes
+
+* Commencer à réfléchir pour le fonctionnement du formulaire
+
+* Penser au développement de la page à partir de 0 : sans Framework
+
+* Après l’intégration de la charte graphique, revenir sur les 
 fonctionnalités et se préparer à intégrer dans la maquette des 
 fonctionnalités.
-• Trouver la meilleure méthode pour reproduire des événements : envoie 
+
+* Trouver la meilleure méthode pour reproduire des événements : envoie 
 des requêtes et réponses coté serveur.
